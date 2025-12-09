@@ -25,4 +25,4 @@ I enjoy building web development projects and solving real-world problems using 
   (Java console-based project using OOPs)
 
 ## 📫 Connect with Me
-Email: snehak783@gmail.com
+Email: snehakale783@gmail.com
