@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Sneha Kale
 
-<!--
-**snehak783/snehak783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BTech CSE student and a Full Stack Java Developer.  
+I enjoy building web development projects and solving real-world problems using Java, HTML, CSS, JavaScript, and Hibernate,Spring Boot.
 
-Here are some ideas to get you started:
+## 🔥 Skills
+- HTML, CSS, JavaScript  
+- Core Java  
+- Advance Java  
+- OOPs Concepts  
+- SQL  
+- Hibernate  
+- Spring Framework  
+- Spring Boot  
+- Python (for ML Model Training)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+- **Resale Car Price Prediction**  
+  (Frontend: HTML, CSS, JavaScript | Backend & ML Model: Python, Jupyter, Anaconda)
+
+- **Online Book Store Website**  
+  (HTML, CSS, JavaScript)
+
+- **Guesser Game**  
+  (Java console-based project using OOPs)
+
+## 📫 Connect with Me
+Email: snehak783@gmail.com
